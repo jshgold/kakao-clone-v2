@@ -3,6 +3,11 @@
     justify-content: space-between;
     margin-bottom: 30px;
     align-items: center;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    padding: 30px 30px 8px 30px;
+    border-bottom: 1px solid #E7E7E9;
 }
 
 .header .header__title{
@@ -16,6 +21,3 @@
     cursor: pointer;
 }
 
-a{
-    color: inherit;
-}
